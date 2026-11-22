@@ -5,9 +5,8 @@ Projeto acadêmico em Python com Programação Orientada a Objetos para automati
 ## Arquivos
 - `rentsmart.py`: código-fonte executável.
 - `projecao_exemplo.csv`: exemplo da projeção de 12 meses.
-- `RentSmart_Parte_Teorica_Danilo_Alves_Lima.pdf`: documentação teórica.
-
-## Requisitos e execução
+- `RentSmart_Parte_Teorica_Danilo_Alves_Lima.pdf`: documentação teórica com evidências, incluindo capturas de tela da execução do sistema e da geração da projeção financeira.
+- Requisitos e execução
 É necessário ter Python 3.8 ou superior. Não há bibliotecas externas para instalar.
 
 1. Abra o terminal na pasta do projeto.
